@@ -1,0 +1,22 @@
+/* <button id="add-child">Add child</button>
+    <button id="red-wedding">Red Wedding</button> */
+
+
+    #add-child {
+        color: aqua;
+        background-color:darkseagreen;
+    }
+
+
+
+    #red-wedding{
+
+        color: chartreuse;
+        background-color:darkseagreen;
+    }
+
+
+    .starks{
+
+        color: brown;
+    }
